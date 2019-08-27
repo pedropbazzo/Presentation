@@ -2,7 +2,7 @@
 //Type writing efeito
 $('#typewriteText').typewrite({
     actions: [
-       {type:'Desenvolvedor Front-end'},
+       {type:'Desenvolvedor Front-end e Designer UX'},
     ]
 })
 
