@@ -16,6 +16,13 @@ h1 {
 
 }
 
+.text {
+ color: #000;
+}
+
+
+
+
 .fa-code {
     color: #d63031;
     font-size: 30px;
@@ -380,6 +387,3 @@ h1 {
 .wc_whatsapp_primary .close:focus {
     color: #f00;
     opacity: 1;
-.text{
- color: #000;
-}
