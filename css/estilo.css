@@ -174,7 +174,11 @@ h4 {
     border-radius: 13px;
     background-color: #ddd;
  }
-  
+
+.text-about {
+    text-align:center;
+}  
+    
 .skills {
     text-align: right; 
     padding: 2px; 
