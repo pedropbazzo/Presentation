@@ -2,7 +2,7 @@
 //Type writing efeito
 $('#typewriteText').typewrite({
     actions: [
-       {type:'Desenvolvedor Front-end e Designer UX'},
+       {type:'Formado em Analise e desenvolvimento de sistemas, desenvolvedor front end e designer UX, trabalhando diariamente na criação de novos recursos para o sistema web, e design de produtos para grandes empresas em diversos segmentos, desde 2010.'},
     ]
 })
 
