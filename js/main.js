@@ -2,7 +2,7 @@
 //Type writing efeito
 $('#typewriteText').typewrite({
     actions: [
-       {type:'Formado em Analise e desenvolvimento de sistemas, desenvolvedor front end e designer UX, trabalhando diariamente na criação de novos recursos para o sistema web, e design de produtos para grandes empresas em diversos segmentos, desde 2010.'},
+       {type:'Ola, Sou Pedro Bazzo, Engenheiro de Sistemas e Aplicativos, Developer Advocate e Ethical Hacker, formado em Analise e desenvolvimento de sistemas, desenvolvedor fullstack, com foco em open APIs Bancarias e Devops trabalhando diariamente para grandes bancos e empresas em diversos segmentos, ao longo da carreira, desde 2010.'},
     ]
 })
 
