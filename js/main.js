@@ -2,7 +2,7 @@
 //Type writing efeito
 $('#typewriteText').typewrite({
     actions: [
-       {type:'Ola, Sou Pedro Bazzo, Engenheiro de Sistemas e Aplicativos, Principal Engineer, Developer Advocate e Ethical Hacker, formado em Analise e desenvolvimento de sistemas, desenvolvedor fullstack, Especialista em open APIs Bancarias e Devops trabalhando diariamente para grandes bancos e empresas em diversos segmentos, ao longo da carreira, desde 2010.'},
+       {type:'Ola, Sou Pedro Bazzo, Engenheiro de Sistemas e Aplicativos, Tech Lead, Principal Engineer, Developer Advocate e Ethical Hacker, formado em Analise e desenvolvimento de sistemas, pós graduado, estudante de mestrado em Engenharia de Sistemas com ênfase em Redes, Cibersegurança, WEB 3, Blockchain e Inteligência Artificial, Especialista II e Devops trabalhando diariamente para grandes bancos e empresas em diversos segmentos, ao longo da carreira, desde 2010.'},
     ]
 })
 
