@@ -2,7 +2,7 @@
 //Type writing efeito
 $('#typewriteText').typewrite({
     actions: [
-       {type:'Ola, Sou Pedro Bazzo, Dev Lead, trabalhando diariamente para grandes bancos e empresas em diversos segmentos, ao longo da carreira, desde 2010.'},
+       {type:'Ola, Sou Pedro Bazzo, trabalho diariamente para grandes bancos e empresas em diversos segmentos, ao longo da carreira, desde 2010.'},
     ]
 })
 
